@@ -1,2 +1,2 @@
-# awesome-computer-science
+# Awesome Computer Science
 
